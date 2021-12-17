@@ -1,0 +1,30 @@
+.body{
+    background-color: skyblue;
+}
+
+
+.footer {
+    background-color: grey;
+}
+
+.alert-heading {
+    color: black;
+}
+
+  .popover-header {
+    background-color: black;
+}
+
+.text-faded {
+    color: white;
+  }
+
+iframe{
+    margin-left: 600px;
+}
+
+a{
+    font-style: italic;
+    font-weight: bold;
+    color: black
+}
